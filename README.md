@@ -1,4 +1,4 @@
-# roche-poc-ai-nlp
+# Roche AI NLP PoC
 
 Minimal NLP demo for the Roche POC. Text in, structured NLP output out.
 
