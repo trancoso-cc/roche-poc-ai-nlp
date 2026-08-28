@@ -1,0 +1,6 @@
+# Azure path only. local_nlp.py needs nothing but the standard library.
+azure-ai-textanalytics==5.3.0
+azure-core>=1.30.0
+
+# Only needed to retrain the tiny model (train_tiny_model.py)
+scikit-learn>=1.4
